@@ -1,0 +1,21 @@
+supplier_id,supplier_name,supplier_category,supplier_region
+SUP-001,Vendor A0,Packaging,Europe
+SUP-002,Vendor B1,Logistics Hardware,North America
+SUP-003,Vendor C2,Electronics,Europe
+SUP-004,Vendor D3,Packaging,LATAM
+SUP-005,Vendor E4,Packaging,LATAM
+SUP-006,Vendor F5,Logistics Hardware,Europe
+SUP-007,Vendor G6,Electronics,Europe
+SUP-008,Vendor H7,Electronics,Europe
+SUP-009,Vendor I8,Packaging,LATAM
+SUP-010,Vendor J9,Raw Materials,LATAM
+SUP-011,Vendor K10,Packaging,North America
+SUP-012,Vendor L11,Packaging,North America
+SUP-013,Vendor M12,Packaging,LATAM
+SUP-014,Vendor N13,Packaging,Europe
+SUP-015,Vendor O14,Logistics Hardware,Europe
+SUP-016,Vendor P15,Electronics,North America
+SUP-017,Vendor Q16,Logistics Hardware,LATAM
+SUP-018,Vendor R17,Logistics Hardware,North America
+SUP-019,Vendor S18,Logistics Hardware,North America
+SUP-020,Vendor T19,Packaging,Asia-Pacific
